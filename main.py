@@ -1,3 +1,3 @@
-from funcs import add_nums
+from funcs import subtract_nums
 
-print(add_nums)
+print(subtract_nums)
